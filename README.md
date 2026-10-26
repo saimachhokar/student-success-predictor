@@ -5,6 +5,15 @@ a secondary-school student may be at risk of failing Mathematics. It combines
 an exploratory data script, model comparison and feature-importance analysis,
 and a Streamlit application for trying individual student profiles.
 
+## Live Demo
+
+[Try the Student Success Predictor](https://student-success-predictor-saima.streamlit.app/)
+
+Enter student background and school-life information to receive an estimated
+academic-risk prediction.
+
+[View Source Code](https://github.com/saimachhokar/student-success-predictor)
+
 ## Project goal
 
 The project explores whether information about a student's background, family,
